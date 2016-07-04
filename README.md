@@ -1,9 +1,9 @@
 # InstagramTracker
 # Introduction
 
-This sample project gives you the boilerplate code you need to connect to Instagram API and retrieve the content by Rest API calls.
+This sample android project gives you the boilerplate code you need to connect to Instagram API,get access token and retrieve the content by Rest API calls.
 
-This application uses retrofit+okhttp+realm open source libraries.he sample application implemented in the project has very simple functionalities:
+This application uses retrofit+okhttp+realm open source libraries. The project has very simple functionalities:
 
     You get the access Token for further request
     List of the followers
